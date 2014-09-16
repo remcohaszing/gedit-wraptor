@@ -8,10 +8,12 @@ Installing
 ----------
 
 Automatically:
+
 Run::
 
     ./install.sh
 
 Manually:
+
 * Copy ``wraptor.plugin`` and ``wraptor.py`` to ``$XDG_DATA_HOME/gedit/plugins``. This defaults to ``~/.local/share/gedit/plugins``.
 * The plugin can now be enabled in gedit by navigating to ``edit`` → ``Preferences`` → ``Plugins`` and checking ``Wraptor``
