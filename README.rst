@@ -7,6 +7,11 @@ This is a plugin for gedit which allows wrapping lines in some languages even if
 Installing
 ----------
 
-Copy ``wraptor.plugin`` and ``wraptor.py`` to ``$XDG_DATA_HOME/gedit/plugins``. This defaults to ``~/.local/share/gedit/plugins``.
+Automatically:
+Run::
 
-The plugin can now be enabled in gedit by navigating to ``edit`` → ``Preferences`` → ``Plugins`` and checking ``Wraptor``
+    ./install.sh
+
+Manually:
+* Copy ``wraptor.plugin`` and ``wraptor.py`` to ``$XDG_DATA_HOME/gedit/plugins``. This defaults to ``~/.local/share/gedit/plugins``.
+* The plugin can now be enabled in gedit by navigating to ``edit`` → ``Preferences`` → ``Plugins`` and checking ``Wraptor``
