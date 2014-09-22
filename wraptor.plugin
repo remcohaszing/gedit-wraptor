@@ -6,5 +6,5 @@ Name=Wraptor
 Description=Wrap lines for some languages
 Authors=Remco Haszing <remcohaszing@gmail.com>
 Copyright=Copyright © 2014 Remco Haszing
-Website=
+Website=https://github.com/remcohaszing/gedit-wraptor
 Version=0.0.1
